@@ -1,0 +1,11 @@
+/* Fix mobile scroll freeze issue */
+html, body {
+  overflow-y: auto !important;
+  overscroll-behavior-y: contain;
+  -webkit-overflow-scrolling: touch;
+}
+
+body {
+  position: relative !important;
+  max-height: none !important;
+}
