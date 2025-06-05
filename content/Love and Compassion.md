@@ -5,6 +5,7 @@ Someone harms you, mentally or physically. Someone acts in a selfish way. Someon
 There are 2 options that lead them to doing the bad thing:
 
 Nature:
+
 Genetic predisposition. A psychopath is the most obvious example. When a psychopath does something horrible, you can ask yourself: Did they choose this? No... they were screwed over by genetics. Thus, can you really blame them? I show compassion.
 
 Nurture:
